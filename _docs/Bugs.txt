@@ -1,0 +1,3 @@
+* When a point is moved that is not the first point, it can be stretched as far
+  as the user moves the mouse.
+* When the rope falls, the points are jumpy.
